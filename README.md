@@ -1,7 +1,5 @@
 ## Olá! Eu sou o Hyhickle Umetsubo
 
-  ##
-
  <div>
   <a href="https://github.com/Hyhickle-Umetsubo">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Hyhickle-Umetsubo&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
