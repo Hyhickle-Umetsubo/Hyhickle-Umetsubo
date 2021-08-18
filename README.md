@@ -1,9 +1,5 @@
 ## Olá! Eu sou o Hyhickle Umetsubo
 
-👨‍🎓 Estudando: Universidade Federal de Pelotas (UFPel);
-
-🎒 Ferramentas: Visual Studio Code;
-
   ##
 
  <div>
