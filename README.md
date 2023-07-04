@@ -2,7 +2,6 @@
 
  <div>
   <a href="https://github.com/Hyhickle-Umetsubo">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Hyhickle-Umetsubo&show_icons=true&theme=monokai&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hyhickle-Umetsubo&layout=compact&langs_count=7&theme=monokai"/>
 </div>
 
